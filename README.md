@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="200"/>
   <div id="badges">
   <br/>
-  <a href="[https://www.linkedin.com/in/halid-pasanovic/](https://www.linkedin.com/in/thái-bảo-lương-b71aa3258/)">
+  <a href="https://www.linkedin.com/in/thái-bảo-lương-b71aa3258/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto: thaibaoluong02@gmail.com">
