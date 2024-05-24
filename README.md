@@ -23,10 +23,9 @@
 ### :man_technologist: About me
 ---
 <div align="left">
-:telescope: I’m a Software Engineering student in my 4th Year.
+:telescope: I am a 4th year student majoring in computer science.
 
-- :seedling: Currently exploring Software Design patterns and building of scalable and easily maintainable software packages.
-Practicing building clean and fast code
+- :seedling: Currently, I am researching and developing web with the desire to become a fullstack developer
 
 - :zap: In my free time, I solve problems on LeetCode and participate in sport activities.
 </div>
@@ -42,9 +41,6 @@ Practicing building clean and fast code
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Angular" alt="Angular" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Angular" alt="Angular" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgress"  alt="Postgress" width="50" height="50"/>&nbsp;
@@ -54,14 +50,5 @@ Practicing building clean and fast code
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"  title="Git" c **alt="Git" width="50" height="50"/>
 </div>
 
----
-### 📊 Stats
----
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PasanovicHalid&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly&count_private=true)](https://git.io/streak-stats)
 
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PasanovicHalid&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
